@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "gitexamples.com documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadiraja/gitexamples.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadiraja/gitexamples.com/issues"
+  },
+  "homepage": "https://github.com/vadiraja/gitexamples.com#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "nextra": "^1.1.0",
+    "nextra-theme-docs": "^1.2.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
