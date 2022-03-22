@@ -1,2 +1,3 @@
-# Git Examples
-Sample GraphQL API end point with sample data. Lorem Ipsum for GraphQL
+# Sample online GraphQL Endpoint
+You can expedite your front end development using various data models available in GraphQL format. 
+Lorem Ipsum for GraphQL. It is collection of various Data Models from different usecases: Blog, eCommerce, Product Catalog etc.
