@@ -22,6 +22,11 @@ GraphQL Endpoint:
 https://api.gqlexamples.com/graphql
 ```
 
+__Data Models__
+- [Blogs](https://www.gqlexamples.com/blogs)
+- Product Catalog
+- eCommerce 
+
 
 ## Usage <a name = "usage"></a>
 ![alt](https://res.cloudinary.com/kannada-kosha/image/upload/v1647908533/Screen_Shot_2022-03-21_at_7.21.51_PM_sa0fww.png)
